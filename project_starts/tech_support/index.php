@@ -6,7 +6,7 @@
     <ul>
         <li><a href="product_manager">Manage Products</a></li>
         <li><a href="tech_manager">Manage Technicians</a></li>
-        <li><a href="customer_login">Manage Customers</a></li>
+        <li><a href="under_construction.php">Manage Customers</a></li>
         <li><a href="incident_create">Create Incident</a></li>
         <li><a href="under_construction.php">Assign Incident</a></li>
         <li><a href="under_construction.php">Display Incidents</a></li>
@@ -19,7 +19,7 @@
 
     <h2>Customers</h2>
     <ul>
-        <li><a href="customer_login\register_product">Register Product</a></li>
+        <li><a href="customer_login">Register Product</a></li>
     </ul>
     
     </nav>

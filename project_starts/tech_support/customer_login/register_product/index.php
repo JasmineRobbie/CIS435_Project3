@@ -59,7 +59,7 @@ if(isset($_GET['email']))
 
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Register Product Page 1</title>
     <link rel = "stylesheet" href = "../../main.css">
     </head>
     <body>
@@ -148,7 +148,7 @@ if(isset($_GET['email']))
 
                                                 echo "executed";
 
-                                                header("location: register_product/index.php?id=".$productCode);
+                                                header("location: register_product2/index.php?id=".$productCode);
 
 
 
