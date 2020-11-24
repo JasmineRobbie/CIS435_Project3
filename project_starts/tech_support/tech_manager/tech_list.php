@@ -2,8 +2,9 @@
 require('../model/database.php');
 ?>
 <head>
-  <link rel="stylesheet" type="text/css" href="../main.css">
-</head>
+<meta charset="UTF-8">
+<title>Technician List</title>
+<link rel = 'stylesheet' href = '../main.css'></head>
 
 <script language="Javascript" type="text/javascript">
   function validate(x) {

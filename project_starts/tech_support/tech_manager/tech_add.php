@@ -2,6 +2,9 @@
 
 require('../model/database.php');
 ?>
+<meta charset="UTF-8">
+<title>Add Technician</title>
+<link rel = 'stylesheet' href = '../main.css'>
 <main>
     <h1>Add Technician</h1>
     <form action="." method="post" id="aligned">
